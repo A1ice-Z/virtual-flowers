@@ -16,4 +16,3 @@ This is a React application that displays virtual flowers on the screen along wi
 
 Once the development server is running, open your browser and navigate to `http://localhost:3000` to view the application.
 
-The application will display virtual flowers along with a cute banner at the bottom. You can customize the flowers' appearance by modifying the data in the `flowersData` array.
